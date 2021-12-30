@@ -9,3 +9,5 @@ Run the following commands in terminal:
 2- "pip install matplotlib"
 3- "python -m pip install pandas"
 4- "pip install -U scikit-learn"
+
+
